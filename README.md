@@ -5,7 +5,7 @@ An end-to-end Machine Learning web application designed to predict whether a loa
 
 Built as part of the **Devixo Solutions AI/ML Internship Task**.
 
-🚀 **Live Interactive App:** [Click Here to Access the Live Streamlit App](https://loan-approval-prediction-app.streamlit.app) *(Replace with your exact Streamlit URL)*
+🚀 **Live Interactive App:** [Click Here to Access the Live Streamlit App](https://loan-approval-prediction-app-sth5lpztnd67ecnbuenfuq.streamlit.app/)
 
 ---
 
@@ -88,6 +88,3 @@ Bash
 streamlit run app.py
 
 
-
-URL of APP:
-https://loan-approval-prediction-app-sth5lpztnd67ecnbuenfuq.streamlit.app/
